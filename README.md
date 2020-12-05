@@ -4,13 +4,13 @@
 
 ![](tracker.PNG)
 
-Name: Workout Tracker
-
-Description: The workout tracker app solves the real world problem of keeping track and charts of your favorite cardio and resistance workouts. The app integrates a Mongo database with a Mongoose schema and handle routes with Express  The  motivation to build this project was to help clients achieve their workout goals by having an accessible website that is easy to navigate.
-
 ## User Story
 
 * As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+
+Name: Workout Tracker
+
+Description: The workout tracker app solves the real world problem of keeping track and charts of your favorite cardio and resistance workouts. The app integrates a Mongo database with a Mongoose schema and handle routes with Express  The  motivation to build this project was to help clients achieve their workout goals by having an accessible website that is easy to navigate.
 
 Technologies used: HTML, CSS, JavaScript, MongoDB, Mongoose, Express, charts.js
 
