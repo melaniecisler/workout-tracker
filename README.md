@@ -16,8 +16,10 @@ Challenges:  Setting up MongoDB Atlas. I had to recreate my account because of p
 
 Future development: Have more options than just Resistance or Cardio. Create a React.js front-end. 
 
-Installation: 'npm install' and 'npm start'
+Installation: clone repo and  'npm install' and 'npm start'
 
 Run: Using Chrome or a favorite browser copy link https://localhost:3000/ 
+
+Deployed: https://desolate-castle-89952.herokuapp.com/ 
 
 Authors and acknowledgment: Developed by Melanie Cisler
